@@ -20,7 +20,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-12 col-sm- col-md-4 col-lg-4">
-          <div class="card">
+          <div class="card" >
           <div class="card-main">
             <div class="card-header">
               <div class="card-header-bg"></div>
@@ -71,6 +71,7 @@
         </div>
 
         </div>
+        
         <div class="col-12 col-sm- col-md-4 col-lg-4">
           <div class="card">
           <div class="card-main">
@@ -116,13 +117,14 @@
             </div>
             <div class="card-overall" >
                 <span class="card-attribute__value"  style="color: #f90; margin:auto">ST/CAM</span
-                >
-                <!-- <span class="card-attribute__name" ></span> -->
+ >
+                
               </div>
           </div>
         </div>
 
         </div>
+
         <div class="col-12 col-sm- col-md-4 col-lg-4">
           <div class="card">
           <div class="card-main">
@@ -266,6 +268,8 @@ export default {
 } */
 
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
+
+
 .card {
   background: #1c1c4a;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
@@ -306,7 +310,7 @@ export default {
   flex: 1;
 }
 .card-header {
-  /* background-image: url("https://static.vecteezy.com/system/resources/previews/000/148/777/non_2x/vector-white-tiger-stripes.png"); */
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/148/777/non_2x/vector-white-tiger-stripes.png");
   filter: blur(0px);
   background-color: #0f0f3d;
   background-blend-mode: screen;

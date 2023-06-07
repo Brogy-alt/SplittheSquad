@@ -8,7 +8,7 @@
       <div class="home container d-flex align-items-center justify-content-center">
         <div class="row">
             <div class="col landing-text text-light" style="padding-top: 19rem; ">
-                <h1>Embrace the Unexpected. Conquer The Field</h1>
+                <h1>Cool words here</h1>
             </div>
         </div>
     </div>
@@ -17,22 +17,24 @@
     </main>
 
     <div>
-    <PlayersC :player="playerData" />
+    <!-- <PlayersC :player="playerData" /> -->
+    <PlayerCards/>
   </div>
     
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-// import HelloWorld from '@/components/HelloWorld.vue'
+
 import NavbarC from '@/components/NavbarC.vue';
-import PlayersC from '@/components/PlayersC.vue';
+import PlayerCards from '@/components/PlayerCards.vue';
+// import PlayersC from '@/components/PlayersC.vue';
 
 export default {
   name: 'HomeView',
   components: {
-      NavbarC, PlayersC
+      NavbarC, PlayerCards
+      // PlayersC
   },
   data() {
     return {
@@ -50,9 +52,9 @@ export default {
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@700&display=swap');
 main {
+  
   min-height: 100vh;
-  background: 
-  url(https://i.postimg.cc/ZRQ9Zgzx/soccer-ball-through-net.jpg);
+  background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/FzLx4vxt/fifa-background-tqq9pxlhzeue8u6w.png) ;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
