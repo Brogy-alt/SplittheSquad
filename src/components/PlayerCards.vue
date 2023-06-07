@@ -2,7 +2,7 @@
     <div class="cards-page">
 
       <div> 
-        
+
       </div>
     
         <div class="container-fluid">
@@ -40,13 +40,13 @@
           </div>
           <div class="Stats"></div>
           <div class="leftCol">
-            <p>84 PAC</p>
-            <p>84 DRI</p>
-            <p>82 SHO</p>
+            <p>78 PAC</p>
+            <p>83 DRI</p>
+            <p>79 SHO</p>
           </div>
           <div class="rightCol">
             <p>86 DEF</p>
-            <p>85 PAS</p>
+            <p>82 PAS</p>
             <p>87 PHY</p>
           </div>
         </div>
@@ -77,8 +77,8 @@
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
               </p>
-              <p class="logo">
-                   <img src="https://i.postimg.cc/BbgfnZXP/pngwing-com.png"  height="45px" width="auto" />
+              <p class="logo-brandon">
+                   <img src="https://i.postimg.cc/ydyQLFY2/My-project-1-5-1-1.png"  height="50px" width="auto" />
               </p>
             </span>
           </div>
@@ -90,12 +90,12 @@
             <div class="leftCol">
               <p>87 PAC</p>
               <p>81 DRI</p>
-              <p>80 SHO</p>
+              <p>76 SHO</p>
             </div>
             <div class="rightCol">
-              <p>84 DEF</p>
-              <p>83 PAS</p>
-              <p>81 PHY</p>
+              <p>85 DEF</p>
+              <p>81 PAS</p>
+              <p>74 PHY</p>
             </div>
           </div>
         </div>
@@ -103,11 +103,11 @@
     </div>
   </div>
 
-    <!--  --  --   --         Someone       --  --   --   --> <!--  --  --   --         Someone        --  --   --   --> <!--  --  --   --         Someone        --  --   --   --> 
-<!-- 
+    <!--  --  --   --         Mueen      --  --   --   --> <!--  --  --   --         Mueen       --  --   --   --> <!--  --  --   --         Mueen        --  --   --   --> 
+
 <div class="col-12 col-sm- col-md-4 col-lg-4">
               <div class=Main>
-      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/1RGcWnkr/Brandons-background.jpg)  ;background-repeat: no-repeat;
+      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/j5MZ4KsP/mueen-background.jpg)  ;background-repeat: no-repeat;
     background-size: cover;
     background-position: center;">
         <div class=CardWrapper>
@@ -115,11 +115,57 @@
         <div class=WrapperRightCorner></div>
           <div class=TopSection>
             <span class="Cardimage-Brandon">
-              <img  class="playerimg" src="https://i.postimg.cc/N003pxyS/brandon.png" style="" height="230px"/>
+              <img  class="playerimg" src="https://i.postimg.cc/FKfbccYb/My-project-1-3-1.png" style="" height="230px"/>
             </span>
             <span class="TeamLogo">
               <p class="rating">85</p>
-              <p class="position">CAM</p>
+              <p class="position">CM</p>
+              <p class="flag">
+                <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
+              </p>
+              <p class="logo-mueen">
+                   <img src="https://i.postimg.cc/6pb6jmQx/kindpng-7316451.png"  height="18px" width="auto" />
+              </p>
+            </span>
+          </div>
+          <div class="BottomSection">
+            <div class="PlayerDetails">
+              <p class="PlayerName">SLAMAT</p>
+            </div>
+            <div class="Stats"></div>
+            <div class="leftCol">
+              <p>80 PAC</p>
+              <p>89 DRI</p>
+              <p>83 SHO</p>
+            </div>
+            <div class="rightCol">
+              <p>81 DEF</p>
+              <p>86 PAS</p>
+              <p>77 PHY</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--  --  --   --        IMRAAN      --  --   --   --> <!--  --  --   --       IMRAAN          --  --   --   --> <!--  --  --   --         IMRAAN        --  --   --   --> 
+
+<div class="col-12 col-sm- col-md-4 col-lg-4">
+              <div class=Main>
+      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/1RMM2bg4/imraan-background.jpg)  ;background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;">
+        <div class=CardWrapper>
+        <div class=WrapperLeftCorner></div>
+        <div class=WrapperRightCorner></div>
+          <div class=TopSection>
+            <span class="Cardimage-Brandon">
+              <img  class="playerimg" src="https://i.postimg.cc/ryjmXNCf/My-project-1-4-1.png" style="" height="230px"/>
+            </span>
+            <span class="TeamLogo">
+              <p class="rating">85</p>
+              <p class="position">ST</p>
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
               </p>
@@ -130,26 +176,71 @@
           </div>
           <div class="BottomSection">
             <div class="PlayerDetails">
-              <p class="PlayerName">SWINTON</p>
+              <p class="PlayerName">IMRAAN</p>
             </div>
             <div class="Stats"></div>
             <div class="leftCol">
-              <p>87 PAC</p>
-              <p>81 DRI</p>
-              <p>80 SHO</p>
+              <p>86 PAC</p>
+              <p>85 DRI</p>
+              <p>84 SHO</p>
             </div>
             <div class="rightCol">
-              <p>84 DEF</p>
-              <p>83 PAS</p>
-              <p>81 PHY</p>
+              <p>72 DEF</p>
+              <p>85 PAS</p>
+              <p>71 PHY</p>
             </div>
           </div>
         </div>
       </div>
     </div>
-  </div> -->
+  </div>
+     
+  <!--  --  --   --      BROGAN     --  --   --   --> <!--  --  --   --     BROGAN       --  --   --   --> <!--  --  --   --         BROGAN        --  --   --   --> 
 
-              
+<div class="col-12 col-sm- col-md-4 col-lg-4">
+              <div class=Main>
+      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/kgPsLSNX/brogan-background.jpg) ;background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;">
+        <div class=CardWrapper>
+        <div class=WrapperLeftCorner></div>
+        <div class=WrapperRightCorner></div>
+          <div class=TopSection>
+            <span class="Cardimage-Tim">
+              <img  class="playerimg" src="https://i.postimg.cc/dQyZTxdD/My-project-4-1-2.png" style="" height="230px"/>
+            </span>
+            <span class="TeamLogo">
+              <p class="rating">85</p>
+              <p class="position">CM</p>
+              <p class="flag">
+                <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
+              </p>
+              <p class="logo">
+                   <img src="https://i.postimg.cc/8CT5rS9D/injuryprone.webp"  height="40px" width="auto" />
+              </p>
+            </span>
+          </div>
+          <div class="BottomSection">
+            <div class="PlayerDetails">
+              <p class="PlayerName">GYS</p>
+            </div>
+            <div class="Stats"></div>
+            <div class="leftCol">
+              <p>84 PAC</p>
+              <p>85 DRI</p>
+              <p>80 SHO</p>
+            </div>
+            <div class="rightCol">
+              <p>74 DEF</p>
+              <p>83 PAS</p>
+              <p>74 PHY</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
 </div>
   
@@ -250,7 +341,24 @@ export default {
     padding: 5px;
     position: absolute;
     margin-top: 190px;
-    margin-left: -50px;
+    margin-left: -57px;
+}
+
+/* brandons trait */
+.logo-brandon{
+  padding: 5px;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: -60px;
+}
+
+/* brandons trait */
+.logo-mueen{
+
+    padding: 5px;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: -65px;
 }
 
 /* for tims card */
@@ -309,5 +417,10 @@ p {
   height:200px;
   bottom:0;
   width:100%;
+}
+.BoxWrapper:hover{
+  box-shadow: white 0px 4px 2px 1px ;
+  transition: 0.4s;
+  
 }
 </style>
