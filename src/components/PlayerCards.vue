@@ -30,7 +30,7 @@
               <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
             </p>
             <p class="logo">
-                 <img src="https://i.postimg.cc/CMtQbqVM/pngwing-com-2.png" style="margin-left: -10px;" height="45px" width="auto" />
+                 <img src="https://i.postimg.cc/7YNGn4JB/Group-2-1.png" style="margin-left: -10px;" height="45px" width="auto" />
             </p>
           </span>
         </div>
@@ -88,14 +88,14 @@
             </div>
             <div class="Stats"></div>
             <div class="leftCol">
-              <p>87 PAC</p>
+              <p>88 PAC</p>
               <p>81 DRI</p>
               <p>76 SHO</p>
             </div>
             <div class="rightCol">
-              <p>85 DEF</p>
+              <p>82 DEF</p>
               <p>81 PAS</p>
-              <p>74 PHY</p>
+              <p>77 PHY</p>
             </div>
           </div>
         </div>
@@ -134,13 +134,13 @@
             </div>
             <div class="Stats"></div>
             <div class="leftCol">
-              <p>80 PAC</p>
-              <p>89 DRI</p>
+              <p>79 PAC</p>
+              <p>90 DRI</p>
               <p>83 SHO</p>
             </div>
             <div class="rightCol">
               <p>81 DEF</p>
-              <p>86 PAS</p>
+              <p>87 PAS</p>
               <p>77 PHY</p>
             </div>
           </div>
@@ -176,11 +176,11 @@
           </div>
           <div class="BottomSection">
             <div class="PlayerDetails">
-              <p class="PlayerName">IMRAAN</p>
+              <p class="PlayerName">BERNKSEN</p>
             </div>
             <div class="Stats"></div>
             <div class="leftCol">
-              <p>86 PAC</p>
+              <p>82 PAC</p>
               <p>85 DRI</p>
               <p>84 SHO</p>
             </div>
@@ -234,6 +234,52 @@
               <p>74 DEF</p>
               <p>83 PAS</p>
               <p>74 PHY</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--  --  --   --      CASSIDY    --  --   --   --> <!--  --  --   --     CASSIDY      --  --   --   --> <!--  --  --   --         CASSIDY       --  --   --   --> 
+
+<div class="col-12 col-sm- col-md-4 col-lg-4">
+              <div class=Main>
+      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/3J7dLFVr/953202.jpg) ;background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;">
+        <div class=CardWrapper>
+        <div class=WrapperLeftCorner></div>
+        <div class=WrapperRightCorner></div>
+          <div class=TopSection>
+            <span class="Cardimage-Tim">
+              <img  class="playerimg" src="https://i.postimg.cc/ZnTDQ34B/My-project-7.png" style="" height="230px"/>
+            </span>
+            <span class="TeamLogo">
+              <p class="rating">85</p>
+              <p class="position">CM</p>
+              <p class="flag">
+                <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
+              </p>
+              <p class="logo">
+                   <img src="https://i.postimg.cc/8CT5rS9D/injuryprone.webp"  height="40px" width="auto" />
+              </p>
+            </span>
+          </div>
+          <div class="BottomSection">
+            <div class="PlayerDetails">
+              <p class="PlayerName">LAWRENCE</p>
+            </div>
+            <div class="Stats"></div>
+            <div class="leftCol">
+              <p>85 PAC</p>
+              <p>88 DRI</p>
+              <p>87 SHO</p>
+            </div>
+            <div class="rightCol">
+              <p>85 DEF</p>
+              <p>84 PAS</p>
+              <p>79 PHY</p>
             </div>
           </div>
         </div>
