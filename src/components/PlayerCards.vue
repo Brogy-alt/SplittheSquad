@@ -287,6 +287,53 @@
     </div>
   </div>
 
+   <!--  --  --   --      UMAYR    --  --   --   --> <!--  --  --   --      UMAYR      --  --   --   --> <!--  --  --   --        UMAYR       --  --   --   --> 
+
+<div class="col-12 col-sm- col-md-4 col-lg-4">
+              <div class=Main>
+      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/nz046zvR/Aneeqas-background.jpg) ;background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;">
+        <div class=CardWrapper>
+        <div class=WrapperLeftCorner></div>
+        <div class=WrapperRightCorner></div>
+          <div class=TopSection>
+            <span class="Cardimage-Tim">
+              <img  class="playerimg" src="https://i.postimg.cc/XqcdWvSB/Umayr-transparent.png" style="" height="230px"/>
+            </span>
+            <span class="TeamLogo">
+              <p class="rating" >84</p>
+              <p class="position">LM</p>
+              <p class="flag">
+                <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
+              </p>
+              <p class="logo-umayr">
+                   <img src="https://i.postimg.cc/Gh3H9CWR/Umayrs-trait.png"  height="70px" width="auto" />
+              </p>
+            </span>
+          </div>
+          <div class="BottomSection">
+            <div class="PlayerDetails">
+              <p class="PlayerName">NORDIEN</p>
+            </div>
+            <div class="Stats"></div>
+            <div class="leftCol">
+              <p>85 PAC</p>
+              <p>82 DRI</p>
+              <p>84 SHO</p>
+            </div>
+            <div class="rightCol">
+              <p>83 DEF</p>
+              <p>84 PAS</p>
+              <p>80 PHY</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
 </div>
 </div>
   
@@ -403,7 +450,7 @@ export default {
     margin-left: -60px;
 }
 
-/* brandons trait */
+/* mueen trait */
 .logo-mueen{
 
     padding: 5px;
@@ -412,7 +459,7 @@ export default {
     margin-left: -65px;
 }
 
-/* cassidy s trait */
+/* imraan s trait */
 .logo-Imraan{
 
     padding: 5px;
@@ -421,12 +468,21 @@ export default {
     margin-left: -75px;
 }
 
+/* cassidy trait */
 .logo-cassidy{
 
     padding: 5px;
     position: absolute;
     margin-top: 180px;
     margin-left: -60px;
+}
+/* umayr trait */
+.logo-umayr{
+
+padding: 5px;
+position: absolute;
+margin-top: 165px;
+margin-left: -95px;
 }
 
 
@@ -437,6 +493,8 @@ export default {
     position: absolute;
     margin-left: -160px;
 }
+
+
 
 /* for Brandons card */
 .Cardimage-Brandon {
