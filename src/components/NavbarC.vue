@@ -5,7 +5,7 @@
       <nav class="navbar navbar-expand-lg sticky">
       <div class="container-fluid bg-transparent">
         <a class="navbar-brand bg-transparent text-dark"  style="font-family: 'Alegreya Sans SC', sans-serif;; font-size: 25px ;margin-left: 7rem;"  href="#">SPLITTHESQUAD</a>
-        <button class="navbar-toggler text-bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler text-bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse " id="navbarSupportedContent">
@@ -16,9 +16,11 @@
             <li class="nav-item">
               <a class="nav-link active text-dark" aria-current="page" href="/" style="margin-right: 2rem;">THE HOMIES</a>
             </li>
+
             <li class="nav-item">
-              <a class="nav-link active text-dark" aria-current="page" href="/" style="margin-right: 10rem;">CONTACT</a>
-            </li>               
+              <a class="nav-link active text-dark" aria-current="page" href="/" style="margin-right: 2rem;">CONTACT</a>
+            </li>
+                  
           </ul>
         </div>
       </div>

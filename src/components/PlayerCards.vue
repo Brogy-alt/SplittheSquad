@@ -30,7 +30,7 @@
               <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
             </p>
             <p class="logo">
-                 <img src="https://i.postimg.cc/7YNGn4JB/Group-2-1.png" style="margin-left: -10px;" height="45px" width="auto" />
+                 <img src="https://i.postimg.cc/7YNGn4JB/Group-2-1.png" style="margin-left: -10px;" height="50px" width="auto" />
             </p>
           </span>
         </div>
@@ -95,7 +95,7 @@
             <div class="rightCol">
               <p>82 DEF</p>
               <p>81 PAS</p>
-              <p>77 PHY</p>
+              <p>74 PHY</p>
             </div>
           </div>
         </div>
@@ -124,7 +124,7 @@
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
               </p>
               <p class="logo-mueen">
-                   <img src="https://i.postimg.cc/6pb6jmQx/kindpng-7316451.png"  height="18px" width="auto" />
+                   <img src="https://i.postimg.cc/6pb6jmQx/kindpng-7316451.png"  height="16px" width="auto" />
               </p>
             </span>
           </div>
@@ -149,55 +149,10 @@
     </div>
   </div>
 
-  <!--  --  --   --        IMRAAN      --  --   --   --> <!--  --  --   --       IMRAAN          --  --   --   --> <!--  --  --   --         IMRAAN        --  --   --   --> 
-
-<div class="col-12 col-sm- col-md-4 col-lg-4">
-              <div class=Main>
-      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/1RMM2bg4/imraan-background.jpg)  ;background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;">
-        <div class=CardWrapper>
-        <div class=WrapperLeftCorner></div>
-        <div class=WrapperRightCorner></div>
-          <div class=TopSection>
-            <span class="Cardimage-Brandon">
-              <img  class="playerimg" src="https://i.postimg.cc/ryjmXNCf/My-project-1-4-1.png" style="" height="230px"/>
-            </span>
-            <span class="TeamLogo">
-              <p class="rating">86</p>
-              <p class="position">ST</p>
-              <p class="flag">
-                <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
-              </p>
-              <p class="logo-Imraan">
-                   <img src="https://i.postimg.cc/Vk6P9c2w/My-project-1-6.png"  height="80px" width="auto" />
-              </p>
-            </span>
-          </div>
-          <div class="BottomSection">
-            <div class="PlayerDetails">
-              <p class="PlayerName">BERNKSEN</p>
-            </div>
-            <div class="Stats"></div>
-            <div class="leftCol">
-              <p>82 PAC</p>
-              <p>85 DRI</p>
-              <p>84 SHO</p>
-            </div>
-            <div class="rightCol">
-              <p>72 DEF</p>
-              <p>85 PAS</p>
-              <p>71 PHY</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-     
+  
   <!--  --  --   --      BROGAN     --  --   --   --> <!--  --  --   --     BROGAN       --  --   --   --> <!--  --  --   --         BROGAN        --  --   --   --> 
-
-<div class="col-12 col-sm- col-md-4 col-lg-4">
+  
+  <div class="col-12 col-sm- col-md-4 col-lg-4">
               <div class=Main>
       <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/kgPsLSNX/brogan-background.jpg) ;background-repeat: no-repeat;
     background-size: cover;
@@ -233,7 +188,7 @@
             <div class="rightCol">
               <p>74 DEF</p>
               <p>83 PAS</p>
-              <p>74 PHY</p>
+              <p>81 PHY</p>
             </div>
           </div>
         </div>
@@ -242,8 +197,8 @@
   </div>
 
   <!--  --  --   --      CASSIDY    --  --   --   --> <!--  --  --   --     CASSIDY      --  --   --   --> <!--  --  --   --         CASSIDY       --  --   --   --> 
-
-<div class="col-12 col-sm- col-md-4 col-lg-4">
+  
+  <div class="col-12 col-sm- col-md-4 col-lg-4">
               <div class=Main>
       <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/rmVQt5hw/wallpaperflare-com-wallpaper-1.jpg) ;background-repeat: no-repeat;
     background-size: cover;
@@ -274,7 +229,7 @@
             <div class="leftCol">
               <p>88 PAC</p>
               <p>87 DRI</p>
-              <p>89 SHO</p>
+              <p>90 SHO</p>
             </div>
             <div class="rightCol">
               <p>86 DEF</p>
@@ -287,10 +242,57 @@
     </div>
   </div>
 
-   <!--  --  --   --      UMAYR    --  --   --   --> <!--  --  --   --      UMAYR      --  --   --   --> <!--  --  --   --        UMAYR       --  --   --   --> 
 
+  <!--  --  --   --      MEEZAAN    --  --   --   --> <!--  --  --   --      MEEZAAN       --  --   --   --> <!--  --  --   --        MEEZAAN        --  --   --   --> 
+   
 <div class="col-12 col-sm- col-md-4 col-lg-4">
               <div class=Main>
+      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 2)), url(https://i.postimg.cc/wMndLX7N/meezaan-bg.jpg) ;background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;">
+        <div class=CardWrapper>
+        <div class=WrapperLeftCorner></div>
+        <div class=WrapperRightCorner></div>
+          <div class=TopSection>
+            <span class="Cardimage-Tim">
+              <img  class="playerimg" src="https://i.postimg.cc/SNYDXNgM/My-project-10.png"  height="230px"/>
+            </span>
+            <span class="TeamLogo">
+              <p class="rating" style="color: black;" >88</p>
+              <p class="position" style="color: black;">CDM</p>
+              <p class="flag">
+                <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
+              </p>
+              <p class="logo-meezaan">
+                   <img src="https://i.postimg.cc/TY4NC22R/meezaans-trait-removebg-preview-3.png"  height="45px" width="auto" />
+              </p>
+            </span>
+          </div>
+          <div class="BottomSection">
+            <div class="PlayerDetails">
+              <p class="PlayerName">DAVIDS</p>
+            </div>
+            <div class="Stats"></div>
+            <div class="leftCol  ">
+              <p >78 PAC</p>
+              <p>86 DRI</p>
+              <p>86 SHO</p>
+            </div>
+            <div class="rightCol">
+              <p>90 DEF</p>
+              <p>85 PAS</p>
+              <p>89 PHY</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>  
+
+   <!--  --  --   --      UMAYR    --  --   --   --> <!--  --  --   --      UMAYR      --  --   --   --> <!--  --  --   --        UMAYR       --  --   --   --> 
+   
+<div class="col-12 col-sm- col-md-4 col-lg-4">
+              <div class= Main>
       <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/nz046zvR/Aneeqas-background.jpg) ;background-repeat: no-repeat;
     background-size: cover;
     background-position: center;">
@@ -319,12 +321,12 @@
             <div class="Stats"></div>
             <div class="leftCol">
               <p>85 PAC</p>
-              <p>82 DRI</p>
+              <p>85 DRI</p>
               <p>84 SHO</p>
             </div>
             <div class="rightCol">
               <p>83 DEF</p>
-              <p>84 PAS</p>
+              <p>81 PAS</p>
               <p>80 PHY</p>
             </div>
           </div>
@@ -334,6 +336,99 @@
   </div>
 
 
+
+ <!--  --  --   --      ANEEQA    --  --   --   --> <!--  --  --   --      ANEEQA     --  --   --   --> <!--  --  --   --        ANEEQA       --  --   --   --> 
+
+ <div class="col-12 col-sm- col-md-4 col-lg-4">
+              <div class=Main>
+      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/63PsLCHt/Aneeqa-background.jpg) ;background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;">
+        <div class=CardWrapper>
+        <div class=WrapperLeftCorner></div>
+        <div class=WrapperRightCorner></div>
+        <div class=TopSection>
+            <span class="Cardimage-Tim">
+              <img  class="playerimg" src="https://i.postimg.cc/qqBWczLp/My-project-10.png" style="" height="230px"/>
+            </span>
+            <span class="TeamLogo">
+              <p class="rating" >83</p>
+              <p class="position">RB</p>
+              <p class="flag">
+                <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
+              </p>
+              <p class="logo-aneeqa">
+                   <img src="https://i.postimg.cc/qvtdqbQQ/aneeqas-trait.png"  height="30px" width="auto" />
+              </p>
+            </span>
+          </div>
+          <div class="BottomSection">
+            <div class="PlayerDetails">
+              <p class="PlayerName">BROWN</p>
+            </div>
+            <div class="Stats"></div>
+            <div class="leftCol">
+              <p>81 PAC</p>
+              <p>84 DRI</p>
+              <p>75 SHO</p>
+            </div>
+            <div class="rightCol">
+              <p>81 DEF</p>
+              <p>82 PAS</p>
+              <p>74 PHY</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!--  --  --   --        IMRAAN      --  --   --   --> <!--  --  --   --       IMRAAN          --  --   --   --> <!--  --  --   --         IMRAAN        --  --   --   --> 
+  
+  <div class="col-12 col-sm- col-md-4 col-lg-4">
+              <div class=Main>
+      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/1RMM2bg4/imraan-background.jpg)  ;background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;">
+        <div class=CardWrapper>
+        <div class=WrapperLeftCorner></div>
+        <div class=WrapperRightCorner></div>
+          <div class=TopSection>
+            <span class="Cardimage-Brandon">
+              <img  class="playerimg" src="https://i.postimg.cc/ryjmXNCf/My-project-1-4-1.png" style="" height="230px"/>
+            </span>
+            <span class="TeamLogo">
+              <p class="rating">86</p>
+              <p class="position">ST</p>
+              <p class="flag">
+                <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
+              </p>
+              <p class="logo-Imraan">
+                   <img src="https://i.postimg.cc/Vk6P9c2w/My-project-1-6.png"  height="80px" width="auto" />
+              </p>
+            </span>
+          </div>
+          <div class="BottomSection">
+            <div class="PlayerDetails">
+              <p class="PlayerName">BERNKSEN</p>
+            </div>
+            <div class="Stats"></div>
+            <div class="leftCol">
+              <p>87 PAC</p>
+              <p>85 DRI</p>
+              <p>87 SHO</p>
+            </div>
+            <div class="rightCol">
+              <p>69 DEF</p>
+              <p>85 PAS</p>
+              <p>71 PHY</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
 </div>
 </div>
   
@@ -348,6 +443,16 @@ export default {
 </script>
 
 <style scoped>
+
+.Main {
+  transition: transform .2s; /* Animation */
+}
+
+.Main:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
 
 .cards-page{
   background-color: rgb(0, 0, 0);
@@ -465,7 +570,7 @@ export default {
     padding: 5px;
     position: absolute;
     margin-top: 160px;
-    margin-left: -75px;
+    margin-left: -77px;
 }
 
 /* cassidy trait */
@@ -483,6 +588,23 @@ padding: 5px;
 position: absolute;
 margin-top: 165px;
 margin-left: -95px;
+}
+
+/* meezaan trait */
+.logo-meezaan{
+  padding: 5px;
+position: absolute;
+margin-top: 190px;
+margin-left: -58px;
+}
+
+/* aneeqa logo */
+.logo-aneeqa{
+  padding: 5px;
+position: absolute;
+margin-top: 180px;
+margin-left: -52px;
+
 }
 
 
