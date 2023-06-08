@@ -21,10 +21,10 @@
       <div class=WrapperRightCorner></div>
         <div class=TopSection>
           <span class="Cardimage-Tim">
-            <img  class="playerimg" src="https://i.postimg.cc/qRvvfsbr/My-project-1.png" height="230px"/>
+            <img  class="playerimg-tim" src="https://i.postimg.cc/qRvvfsbr/My-project-1.png" height="210px"/>
           </span>
           <span class="TeamLogo">
-            <p class="rating">85</p>
+            <p class="rating">84</p>
             <p class="position">CM</p>
             <p class="flag">
               <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
@@ -72,10 +72,10 @@
               <img  class="playerimg" src="https://i.postimg.cc/N003pxyS/brandon.png" style="" height="230px"/>
             </span>
             <span class="TeamLogo">
-              <p class="rating">85</p>
+              <p class="rating">83</p>
               <p class="position">CAM</p>
               <p class="flag">
-                <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
+                <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="60px" />
               </p>
               <p class="logo-brandon">
                    <img src="https://i.postimg.cc/ydyQLFY2/My-project-1-5-1-1.png"  height="50px" width="auto" />
@@ -118,7 +118,7 @@
               <img  class="playerimg" src="https://i.postimg.cc/FKfbccYb/My-project-1-3-1.png" style="" height="230px"/>
             </span>
             <span class="TeamLogo">
-              <p class="rating">85</p>
+              <p class="rating">86</p>
               <p class="position">CM</p>
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
@@ -140,7 +140,7 @@
             </div>
             <div class="rightCol">
               <p>81 DEF</p>
-              <p>87 PAS</p>
+              <p>83 PAS</p>
               <p>77 PHY</p>
             </div>
           </div>
@@ -164,13 +164,13 @@
               <img  class="playerimg" src="https://i.postimg.cc/ryjmXNCf/My-project-1-4-1.png" style="" height="230px"/>
             </span>
             <span class="TeamLogo">
-              <p class="rating">85</p>
+              <p class="rating">86</p>
               <p class="position">ST</p>
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
               </p>
-              <p class="logo">
-                   <img src="https://i.postimg.cc/BbgfnZXP/pngwing-com.png"  height="45px" width="auto" />
+              <p class="logo-Imraan">
+                   <img src="https://i.postimg.cc/Vk6P9c2w/My-project-1-6.png"  height="80px" width="auto" />
               </p>
             </span>
           </div>
@@ -210,7 +210,7 @@
               <img  class="playerimg" src="https://i.postimg.cc/dQyZTxdD/My-project-4-1-2.png" style="" height="230px"/>
             </span>
             <span class="TeamLogo">
-              <p class="rating">85</p>
+              <p class="rating">83</p>
               <p class="position">CM</p>
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
@@ -245,7 +245,7 @@
 
 <div class="col-12 col-sm- col-md-4 col-lg-4">
               <div class=Main>
-      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/3J7dLFVr/953202.jpg) ;background-repeat: no-repeat;
+      <div class=BoxWrapper style="background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)), url(https://i.postimg.cc/rmVQt5hw/wallpaperflare-com-wallpaper-1.jpg) ;background-repeat: no-repeat;
     background-size: cover;
     background-position: center;">
         <div class=CardWrapper>
@@ -256,13 +256,13 @@
               <img  class="playerimg" src="https://i.postimg.cc/ZnTDQ34B/My-project-7.png" style="" height="230px"/>
             </span>
             <span class="TeamLogo">
-              <p class="rating">85</p>
-              <p class="position">CM</p>
+              <p class="rating" >89</p>
+              <p class="position">RW</p>
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
               </p>
-              <p class="logo">
-                   <img src="https://i.postimg.cc/8CT5rS9D/injuryprone.webp"  height="40px" width="auto" />
+              <p class="logo-cassidy">
+                   <img src="https://i.postimg.cc/dtdhMpBG/My-project-9.png"  height="45px" width="auto" />
               </p>
             </span>
           </div>
@@ -272,13 +272,13 @@
             </div>
             <div class="Stats"></div>
             <div class="leftCol">
-              <p>85 PAC</p>
-              <p>88 DRI</p>
-              <p>87 SHO</p>
+              <p>88 PAC</p>
+              <p>87 DRI</p>
+              <p>89 SHO</p>
             </div>
             <div class="rightCol">
-              <p>85 DEF</p>
-              <p>84 PAS</p>
+              <p>86 DEF</p>
+              <p>86 PAS</p>
               <p>79 PHY</p>
             </div>
           </div>
@@ -307,6 +307,11 @@ export default {
 }
 .playerimg{
     margin-left: 80px !important;
+}
+
+.playerimg-tim{
+  margin-left: 90px !important;
+  margin-top: 15px;
 }
 .Main {
   padding:50px;
@@ -406,6 +411,24 @@ export default {
     margin-top: 190px;
     margin-left: -65px;
 }
+
+/* cassidy s trait */
+.logo-Imraan{
+
+    padding: 5px;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: -75px;
+}
+
+.logo-cassidy{
+
+    padding: 5px;
+    position: absolute;
+    margin-top: 180px;
+    margin-left: -60px;
+}
+
 
 /* for tims card */
 .Cardimage-Tim {
