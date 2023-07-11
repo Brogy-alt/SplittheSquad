@@ -24,7 +24,7 @@
             <img  class="playerimg-tim" src="https://i.postimg.cc/qRvvfsbr/My-project-1.png" height="210px"/>
           </span>
           <span class="TeamLogo">
-            <p class="rating">84</p>
+            <p class="rating">87</p>
             <p class="position">CM</p>
             <p class="flag">
               <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
@@ -40,14 +40,14 @@
           </div>
           <div class="Stats"></div>
           <div class="leftCol">
-            <p>78 PAC</p>
+            <p>82 PAC</p>
             <p>83 DRI</p>
-            <p>79 SHO</p>
+            <p>80 SHO</p>
           </div>
           <div class="rightCol">
             <p>86 DEF</p>
-            <p>82 PAS</p>
-            <p>87 PHY</p>
+            <p>84 PAS</p>
+            <p>91 PHY</p>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@
               <img  class="playerimg" src="https://i.postimg.cc/N003pxyS/brandon.png" style="" height="230px"/>
             </span>
             <span class="TeamLogo">
-              <p class="rating">83</p>
+              <p class="rating">86</p>
               <p class="position">CAM</p>
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="60px" />
@@ -88,14 +88,14 @@
             </div>
             <div class="Stats"></div>
             <div class="leftCol">
-              <p>88 PAC</p>
-              <p>81 DRI</p>
-              <p>76 SHO</p>
+              <p>87 PAC</p>
+              <p>86 DRI</p>
+              <p>81 SHO</p>
             </div>
             <div class="rightCol">
-              <p>82 DEF</p>
+              <p>86 DEF</p>
               <p>81 PAS</p>
-              <p>74 PHY</p>
+              <p>72 PHY</p>
             </div>
           </div>
         </div>
@@ -118,7 +118,7 @@
               <img  class="playerimg" src="https://i.postimg.cc/FKfbccYb/My-project-1-3-1.png" style="" height="230px"/>
             </span>
             <span class="TeamLogo">
-              <p class="rating">86</p>
+              <p class="rating">89</p>
               <p class="position">CM</p>
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
@@ -134,14 +134,14 @@
             </div>
             <div class="Stats"></div>
             <div class="leftCol">
-              <p>79 PAC</p>
+              <p>83 PAC</p>
               <p>90 DRI</p>
-              <p>83 SHO</p>
+              <p>85 SHO</p>
             </div>
             <div class="rightCol">
-              <p>81 DEF</p>
-              <p>83 PAS</p>
-              <p>77 PHY</p>
+              <p>85 DEF</p>
+              <p>89 PAS</p>
+              <p>80 PHY</p>
             </div>
           </div>
         </div>
@@ -165,8 +165,8 @@
               <img  class="playerimg" src="https://i.postimg.cc/dQyZTxdD/My-project-4-1-2.png" style="" height="230px"/>
             </span>
             <span class="TeamLogo">
-              <p class="rating">83</p>
-              <p class="position">CM</p>
+              <p class="rating">88</p>
+              <p class="position">RM</p>
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
               </p>
@@ -181,14 +181,14 @@
             </div>
             <div class="Stats"></div>
             <div class="leftCol">
-              <p>84 PAC</p>
-              <p>85 DRI</p>
-              <p>80 SHO</p>
+              <p>87 PAC</p>
+              <p>90 DRI</p>
+              <p>85 SHO</p>
             </div>
             <div class="rightCol">
-              <p>74 DEF</p>
-              <p>83 PAS</p>
-              <p>81 PHY</p>
+              <p>84 DEF</p>
+              <p>86 PAS</p>
+              <p>86 PHY</p>
             </div>
           </div>
         </div>
@@ -258,7 +258,7 @@
               <img  class="playerimg" src="https://i.postimg.cc/SNYDXNgM/My-project-10.png"  height="230px"/>
             </span>
             <span class="TeamLogo">
-              <p class="rating" style="color: black;" >88</p>
+              <p class="rating" style="color: black;" >90</p>
               <p class="position" style="color: black;">CDM</p>
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
@@ -398,7 +398,7 @@
               <img  class="playerimg" src="https://i.postimg.cc/ryjmXNCf/My-project-1-4-1.png" style="" height="230px"/>
             </span>
             <span class="TeamLogo">
-              <p class="rating">86</p>
+              <p class="rating">88</p>
               <p class="position">ST</p>
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
@@ -416,12 +416,12 @@
             <div class="leftCol">
               <p>87 PAC</p>
               <p>85 DRI</p>
-              <p>87 SHO</p>
+              <p>90 SHO</p>
             </div>
             <div class="rightCol">
-              <p>69 DEF</p>
-              <p>85 PAS</p>
-              <p>71 PHY</p>
+              <p>78 DEF</p>
+              <p>86 PAS</p>
+              <p>82 PHY</p>
             </div>
           </div>
         </div>
@@ -594,7 +594,7 @@ margin-left: -95px;
 .logo-meezaan{
   padding: 5px;
 position: absolute;
-margin-top: 190px;
+margin-top: 181px;
 margin-left: -58px;
 }
 

@@ -17,9 +17,17 @@
     </main>
 
     <div>
-    <!-- <PlayersC :player="playerData" /> -->
+
     <PlayerCards/>
+
   </div>
+
+  <div>
+
+<TeamSlection/>
+
+</div>
+
     
   </div>
 </template>
@@ -28,24 +36,15 @@
 
 import NavbarC from '@/components/NavbarC.vue';
 import PlayerCards from '@/components/PlayerCards.vue';
+import TeamSlection from '@/components/TeamSlection.vue';
+
 // import PlayersC from '@/components/PlayersC.vue';
 
 export default {
   name: 'HomeView',
   components: {
-      NavbarC, PlayerCards
-      // PlayersC
-  },
-  data() {
-    return {
-      playerData: {
-        name: 'Lionel Messi',
-        image: ' messi',
-        club: 'Paris Saint-Germain',
-        position: 'Forward',
-      }}
-      
-    },
+      NavbarC, PlayerCards, TeamSlection
+  }
 }
 </script>
 
