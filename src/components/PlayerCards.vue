@@ -42,12 +42,12 @@
           <div class="leftCol">
             <p>82 PAC</p>
             <p>83 DRI</p>
-            <p>80 SHO</p>
+            <p>83 SHO</p>
           </div>
           <div class="rightCol">
             <p>86 DEF</p>
             <p>84 PAS</p>
-            <p>91 PHY</p>
+            <p>88 PHY</p>
           </div>
         </div>
       </div>
@@ -88,14 +88,14 @@
             </div>
             <div class="Stats"></div>
             <div class="leftCol">
-              <p>87 PAC</p>
-              <p>86 DRI</p>
+              <p>88 PAC</p>
+              <p>85 DRI</p>
               <p>81 SHO</p>
             </div>
             <div class="rightCol">
-              <p>86 DEF</p>
+              <p>84 DEF</p>
               <p>81 PAS</p>
-              <p>72 PHY</p>
+              <p>79 PHY</p>
             </div>
           </div>
         </div>
@@ -141,7 +141,7 @@
             <div class="rightCol">
               <p>85 DEF</p>
               <p>89 PAS</p>
-              <p>80 PHY</p>
+              <p>84 PHY</p>
             </div>
           </div>
         </div>
@@ -166,7 +166,7 @@
             </span>
             <span class="TeamLogo">
               <p class="rating">88</p>
-              <p class="position">RM</p>
+              <p class="position">CM</p>
               <p class="flag">
                 <img src="https://i.postimg.cc/QdH2XwHx/27118.jpg" height="28px" width="50px" />
               </p>
@@ -181,14 +181,14 @@
             </div>
             <div class="Stats"></div>
             <div class="leftCol">
-              <p>87 PAC</p>
-              <p>90 DRI</p>
+              <p>85 PAC</p>
+              <p>87 DRI</p>
               <p>85 SHO</p>
             </div>
             <div class="rightCol">
               <p>84 DEF</p>
               <p>86 PAS</p>
-              <p>86 PHY</p>
+              <p>81 PHY</p>
             </div>
           </div>
         </div>
@@ -227,14 +227,14 @@
             </div>
             <div class="Stats"></div>
             <div class="leftCol">
-              <p>88 PAC</p>
-              <p>87 DRI</p>
-              <p>90 SHO</p>
+              <p>89 PAC</p>
+              <p>90 DRI</p>
+              <p>87 SHO</p>
             </div>
             <div class="rightCol">
-              <p>86 DEF</p>
-              <p>86 PAS</p>
-              <p>79 PHY</p>
+              <p>85 DEF</p>
+              <p>85 PAS</p>
+              <p>83 PHY</p>
             </div>
           </div>
         </div>
@@ -274,8 +274,8 @@
             </div>
             <div class="Stats"></div>
             <div class="leftCol  ">
-              <p >78 PAC</p>
-              <p>86 DRI</p>
+              <p >80 PAC</p>
+              <p>85 DRI</p>
               <p>86 SHO</p>
             </div>
             <div class="rightCol">

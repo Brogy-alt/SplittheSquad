@@ -8,7 +8,7 @@
           >
             <div class="row">
               <div
-                class="col landing-text text-light m-auto text-center"
+                class="col landing-text text-dark m-auto text-center"
                 style="padding-top: 6rem; "
               >
            
@@ -173,7 +173,7 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@700&display=swap");
 main {
   min-height: 100vh;
-  background: linear-gradient(rgba(255, 255, 255, 0.039), rgba(0, 0, 0, 1)),
+  background:
     url(https://i.postimg.cc/FzLx4vxt/fifa-background-tqq9pxlhzeue8u6w.png);
   background-repeat: no-repeat;
   background-size: cover;
